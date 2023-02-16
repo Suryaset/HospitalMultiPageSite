@@ -124,26 +124,27 @@ body{
 .heroright img:first-child{
     display: flex;
     position: relative;
-    width: 500px;
-    left: 500px;
-    bottom: 0px;
+    width: 460px;
+    left: 465px;
+    bottom: 05px;
     z-index: -2;
+    
 }
 .heroright img:nth-child(2){
     display: flex;
-    width: 420px;
+    width: 400px;
     position: relative;
-    left: 80px;
-    top: 20px;
+    left: 65px;
+    top: 10px;
     z-index: 2;
 
 }
 .heroright img:last-child{
     display: flex;
     position: relative;
-    right: 390px;
-    width: 500px;
-    height: 650px;
+    right: 370px;
+    width: 450px;
+    height: 600px;
     z-index: 5;
     bottom: 40px;
  }
@@ -250,7 +251,7 @@ body{
         top:-10px;
     }
 
-
+    
     /* Change the background color of the dropdown button when the dropdown content is shown */
     .dropdown:hover 
     .dropbtn {
